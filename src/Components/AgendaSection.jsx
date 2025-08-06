@@ -1,5 +1,6 @@
-import children1 from "../assets/images/smile2.jpg";
-import children2 from "../assets/images/donation2.jpg";
+import children1 from "../assets/images/bg-footer.jpg";
+import children2 from "../assets/images/support1.jpg";
+import { FaHandsHelping, FaLock, FaSmile, FaBrain, FaRecycle, FaBookOpen, FaChalkboardTeacher } from "react-icons/fa";
 
 export default function AgendaSection(){
   return (
