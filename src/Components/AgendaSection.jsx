@@ -1,4 +1,3 @@
-import { FaHandsHelping, FaSmile, FaLock, FaRecycle, FaBrain } from "react-icons/fa";
 import children1 from "../assets/images/smile1.jpg";
 import children2 from "../assets/images/support2.jpg";
 import { 
