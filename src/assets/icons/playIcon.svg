@@ -1,0 +1,13 @@
+<div className="absolute inset-0 flex items-center justify-center">
+    <div className="bg-white rounded-full p-1">
+        <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="currentColor"
+                    className="w-4 h-4 text-[#002c5b]"
+                    viewBox="0 0 16 16"
+                  >
+            <path d="M6.79 5.093a.5.5 0 0 0-.79.407v4.999a.5.5 0 0 0 .79.407l3.999-2.5a.5.5 0 0 0 0-.814l-4-2.5z" />
+            <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4z" />
+        </svg>
+    </div>
+</div>
